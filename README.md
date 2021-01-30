@@ -1,5 +1,33 @@
 # WebAngular
 
+![Foo](https://raw.githubusercontent.com/matheusosp/angular-Cinema/main/Cinema%20management%20.jpg)
+
+
+## Comandos pra rodar localmente:
+
+```
+git clone git@github.com:matheusosp/courses_list.git
+cd servers/manager-server
+npm install
+node serve.js
+cd ..
+cd ..
+cd web-angular
+npm install
+ng s -o
+```
+
+### TECHNOLOGIES
+- Typescript
+- NodeJS
+- Angular 
+- Angular Material
+- Json Server
+- RxJS 
+- Filtros 
+- RestFull
+- express
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
