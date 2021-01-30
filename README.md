@@ -1,6 +1,6 @@
 # WebAngular
 
-![Foo](https://raw.githubusercontent.com/matheusosp/angular-Cinema/main/Cinema%20management%20.jpg)
+![Foo](https://raw.githubusercontent.com/matheusosp/courses_list/main/WebAngular.jpg)
 
 
 ## Comandos pra rodar localmente:
